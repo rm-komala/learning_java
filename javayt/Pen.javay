@@ -1,0 +1,18 @@
+Public  class Pen
+{
+static String  penName=“cello”;
+static int  PenPrice=5;
+static double penPointName=0.5;
+static boolean PenColor= false;
+
+public static  void main(String[] arg);
+{
+
+system.out.println(“PenName  =“+PenName );
+system.out.println(“PenPrice  =“+PenPrice );
+system.out.println(“penPointName =“+penPointName );
+system.out.println(“PenColor =“+PenColor );
+
+}
+}
+
